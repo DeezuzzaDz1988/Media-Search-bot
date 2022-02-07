@@ -80,7 +80,7 @@ logger - Get log file
 
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* Original [Repo](https://github.com/Mahesh0253/Media-Search-bot)
+* Original [Repo](https://github.com/DeezuzzaDz1988/Media-Search-bot)
 
 
 ## Support
